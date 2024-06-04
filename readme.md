@@ -1,5 +1,5 @@
 
-# YouTube Comment Analyzer
+# YouTube Comment Analyzer📜🔍
 
 ## Project Overview
 The YouTube Comment Analyzer is a powerful tool that helps analyze and categorize comments on YouTube videos. This project takes a YouTube video link as input, uses a Large Language Model (LLM) to analyze all the comments, and categorizes them into different categories such as good comments, bad comments, suggestions, requests, and more based on the comment context.
@@ -36,11 +36,11 @@ The report is saved to a file for further analysis or review.
 * Generates a comprehensive report of the analyzed comments
 * Saves the report to a file for further analysis or review
 
-## Getting Started
+## Getting Started💻
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/your-username/youtube-comment-analyzer.git
+git clone https://github.com/PurpleBird7613/Youtube-Comment-Analyser.git
 ```
 
 ### 2. Install the required dependencies
