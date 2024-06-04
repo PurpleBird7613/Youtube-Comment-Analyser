@@ -59,8 +59,8 @@ YOUTUBE_API_KEY = XXXXXXXXXXXXXXXXX # Inside .env file
 python main.py
 ```
 
-### 4. Provide the YouTube video link as input
+### 5. Provide the YouTube video link as input
 ```
-🚀 Enter YouTube URLk: [insert link here]
+🚀 Enter YouTube URL: [insert link here]
 ```
 
