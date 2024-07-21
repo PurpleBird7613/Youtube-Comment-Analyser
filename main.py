@@ -28,7 +28,7 @@ def run():
     
     # Used as Tool to extract the comments
     tool = YouTubeCommentsTool()
-    """
+    
     comments = tool._run(video_id)
     print(comments)
 
@@ -52,7 +52,7 @@ def run():
     comments_analysed = comments_analyser(video_url,comments)
     print("Comment analysing done!!!💜\n")
     print(comments_analysed)
-    """
+    
     
     # Making the Report
     try: 
