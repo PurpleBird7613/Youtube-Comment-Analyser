@@ -2,7 +2,7 @@
 # YouTube Comment Analyzer📜🔍
 
 ## Project Overview
-The YouTube Comment Analyzer is a powerful tool that helps analyze and categorize comments on YouTube videos. This project takes a YouTube video link as input, uses a Large Language Model (LLM) to analyze all the comments, and categorizes them into different categories such as good comments, bad comments, suggestions, requests, and more based on the comment context.
+👋 Ever wondered what's really going on in those YouTube comment sections? Well, buckle up, because this YouTube comment analyzer tool will make your head spin faster than a cat video compilation! 🐱💫
 
 ## How it Works
 
